@@ -1,0 +1,40 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+    background-color:#2b6b82;
+}
+.profile{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit:cover;
+    object-position: center;
+    padding: 20px;
+
+}
+div{
+    text-align: center;
+    color: aliceblue;
+}
+h2,p{
+    padding: 10px;
+}
+h2,p{
+    color:aliceblue;
+}
+
+.one{
+    margin-left: 8%;
+}
+a{
+    text-align: center;
+    color: aliceblue;
+}
+.profile:hover{
+    width: 350px;
+    height: 350px;
+    transition: 2s;
+    
+}
